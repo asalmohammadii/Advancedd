@@ -1,0 +1,10 @@
+D:\Advanced programming\SOLID\SOLID\bin\Debug\SOLID.exe.config
+D:\Advanced programming\SOLID\SOLID\bin\Debug\SOLID.exe
+D:\Advanced programming\SOLID\SOLID\bin\Debug\SOLID.pdb
+D:\Advanced programming\SOLID\SOLID\obj\Debug\SOLID.csprojAssemblyReference.cache
+D:\Advanced programming\SOLID\SOLID\obj\Debug\SOLID.Form1.resources
+D:\Advanced programming\SOLID\SOLID\obj\Debug\SOLID.Properties.Resources.resources
+D:\Advanced programming\SOLID\SOLID\obj\Debug\SOLID.csproj.GenerateResource.cache
+D:\Advanced programming\SOLID\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+D:\Advanced programming\SOLID\SOLID\obj\Debug\SOLID.exe
+D:\Advanced programming\SOLID\SOLID\obj\Debug\SOLID.pdb
