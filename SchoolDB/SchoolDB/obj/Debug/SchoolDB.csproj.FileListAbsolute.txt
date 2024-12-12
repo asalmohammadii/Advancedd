@@ -1,0 +1,12 @@
+D:\Advanced programming\SchoolDB\SchoolDB\bin\Debug\SchoolDB.mdf
+D:\Advanced programming\SchoolDB\SchoolDB\bin\Debug\SchoolDB_log.ldf
+D:\Advanced programming\SchoolDB\SchoolDB\bin\Debug\SchoolDB.exe.config
+D:\Advanced programming\SchoolDB\SchoolDB\bin\Debug\SchoolDB.exe
+D:\Advanced programming\SchoolDB\SchoolDB\bin\Debug\SchoolDB.pdb
+D:\Advanced programming\SchoolDB\SchoolDB\obj\Debug\SchoolDB.csprojAssemblyReference.cache
+D:\Advanced programming\SchoolDB\SchoolDB\obj\Debug\SchoolDB.Form1.resources
+D:\Advanced programming\SchoolDB\SchoolDB\obj\Debug\SchoolDB.Properties.Resources.resources
+D:\Advanced programming\SchoolDB\SchoolDB\obj\Debug\SchoolDB.csproj.GenerateResource.cache
+D:\Advanced programming\SchoolDB\SchoolDB\obj\Debug\SchoolDB.csproj.CoreCompileInputs.cache
+D:\Advanced programming\SchoolDB\SchoolDB\obj\Debug\SchoolDB.exe
+D:\Advanced programming\SchoolDB\SchoolDB\obj\Debug\SchoolDB.pdb
